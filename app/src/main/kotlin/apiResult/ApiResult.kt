@@ -1,0 +1,3 @@
+package apiResult
+
+interface ApiResult
